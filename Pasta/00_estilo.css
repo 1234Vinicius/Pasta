@@ -1,0 +1,147 @@
+* body {
+	background: #EAF2EF;
+	margin: 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+/* TOPO */
+#topo {
+	 background: #333;
+     width: 1200px;
+     height: 300px;
+     margin: 0 auto;
+     
+
+}
+/* MENU */
+#menu {
+	 background: #FFF;
+	 width: 1190px;
+	 height: 30px;
+	 color: #FFF;
+	 margin: 0 auto;
+     
+  }
+#menu ul {
+	padding: 0px;
+	margin: 0px;
+ 	list-style: none;
+    text-align: center;
+
+}   
+#menu ul li {
+     display: inline;
+
+}
+
+#menu ul li a {
+	  padding: 2px 10px;
+      color: #313131;
+      text-decoration: none;
+
+}
+
+#menu ul li a:hover {
+      color: #D36135;
+      
+
+  }
+
+
+/*======================================*/
+/* CONTEUDO */
+#conteudo {
+	 background: #EB5160;
+	 width: 1200px;
+	 height: 1500px;
+	 margin: 0 auto;
+	 
+}
+/* RODAPE */
+#rodape {
+     background: #FFF;
+     width: 1200px;
+     height: 315px;
+     color:  333;
+     margin: 0 auto;
+     
+
+ }
+
+#rodapeUm  {
+  
+     width: 300px;
+     height: 315px;
+     float: left;
+}
+#rodapeDois { 
+	
+    width: 300px;
+    height: 315px;
+    float: left;
+}
+
+#rodapeDois h4 {
+	font-size: 18px;
+	color: #A63D40;
+}
+
+#rodapeDois ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+
+#rodapeDois ul li {
+	padding-top: 5px;
+}
+
+#rodapeDois ul li a {
+	color: #313131;
+	text-decoration: none;
+}
+
+#rodapeDois ul li a:hover {
+	color: #313131;
+	
+}
+
+#rodapeDois  a { 
+	color: #D36135;
+}
+
+#rodape a:hover {
+	color: #D36135;
+
+}
+
+#rodapeTres {
+	
+    width: 600px;
+    height: 315px;
+    float: left;
+}
+
+#rodapeTres ul {
+	padding: 0px
+	margin: 0px;
+	list-style: none;
+	text-align: center;
+	font-size:  32px;
+}
+#rodapeTres ul li {
+	display:  inline;
+}
+
+ #rodape ul li a {
+ 	padding: 2px 10px;
+ 	color: #313131;
+ 	text-align:  none;
+
+ }
+
+ #rodapeTres ul li a:hover {
+ 	color: #D36135;
+
+ }
+
+
